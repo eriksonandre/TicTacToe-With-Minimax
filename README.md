@@ -10,9 +10,7 @@ Pada program kali ini, pemain akan memainkan peran sebagai 'X' dan bot sebagai '
 Setelah pemain melangkah, maka bot akan mencari langkah terbaik untuk membalas langkah dari pemain.
 Bot menentukan jalan menggunakan sistem pembobotan yang digunakan pada algoritma minimax sehingga bot akan memilih jalan yang memiliki bobot semaksimal mungkin.
 
-Batasan masalah:
--Petak 3x3
--Terdapat 2 jumlah pemain
+Batasan masalah: petak 3x3, terdapat 2 jumlah pemain
 
 
 Bahasa yang digunakan adalah C++ 11/17.
