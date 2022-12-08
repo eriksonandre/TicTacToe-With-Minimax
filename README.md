@@ -14,4 +14,4 @@ Batasan masalah: petak 3x3, terdapat 2 jumlah pemain
 
 
 Bahasa yang digunakan adalah C++ 11/17.
-Thanks to: The Coding Train, Sebastian Lague. :)
+Thanks to: The Coding Train and Sebastian Lague. :)
